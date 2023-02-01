@@ -1,3 +1,3 @@
 # blog
 
-- one minute description of myself
+- 10-second description of myself
