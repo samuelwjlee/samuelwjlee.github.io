@@ -3,7 +3,7 @@
     "title": "samuelwjlee",
     "home_page_url": "http://localhost:4000/",
     "feed_url": "http://localhost:4000/feed.json",
-    "description": "thoughts documented",
+    "description": "my thoughts",
     "icon": "http://localhost:4000/apple-touch-icon.png",
     "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,
