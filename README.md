@@ -1,0 +1,2 @@
+- To run app, `bundle exec jekyll serve`
+- Live blog running [here](https://samuelwjlee.github.io)

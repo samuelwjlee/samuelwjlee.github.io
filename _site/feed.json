@@ -16,5 +16,29 @@
     
 "items": [
     
+        {
+            "id": "http://localhost:4000/2023/02/22/first-post",
+            "title": "first post",
+            "summary": "This is a first post",
+            "content_text": "Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.",
+            "content_html": "<p>Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.</p>",
+            "url": "http://localhost:4000/2023/02/22/first-post",
+            
+            
+            
+            
+            
+            "date_published": "2023-02-22T00:00:00-08:00",
+            "date_modified": "2023-02-22T00:00:00-08:00",
+            
+                "author":  {
+                "name": "Samuel Lee",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        }
+    
     ]
 }
