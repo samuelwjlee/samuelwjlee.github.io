@@ -1,2 +1,3 @@
-- To run app, `bundle exec jekyll serve`
-- Live blog running [here](https://samuelwjlee.github.io)
+<!-- - To run locally, `bundle exec jekyll serve` -->
+
+Hey welcome! This is my thought space! Live blog is running [here](https://samuelwjlee.github.io).
