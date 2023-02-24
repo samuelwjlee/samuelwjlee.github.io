@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/about</loc>
-<lastmod>2023-02-23T20:39:51-08:00</lastmod>
+<loc>samuelwjlee.github.io/about</loc>
+<lastmod>2023-02-23T21:11:06-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/search</loc>
-<lastmod>2023-02-23T20:39:51-08:00</lastmod>
+<loc>samuelwjlee.github.io/search</loc>
+<lastmod>2023-02-23T21:11:06-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2023/02/22/first-post</loc>
+<loc>samuelwjlee.github.io/2023/02/22/first-post</loc>
 <lastmod>2023-02-22T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>samuelwjlee.github.io/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/tag/</loc>
+<loc>samuelwjlee.github.io/tag/tag/</loc>
 </url>
 </urlset>

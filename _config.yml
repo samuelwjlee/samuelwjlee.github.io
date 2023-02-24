@@ -57,3 +57,5 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+google_analytics: "G-B2YC3X475M"
