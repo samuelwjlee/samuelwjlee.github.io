@@ -177,11 +177,20 @@ header ul {
 .post ol {
   //list-style-position: inside;
 }
+.post > a {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-decoration: none;
+  font-size: smaller;
+  font-weight: bolder;
+  width: fit-content;
+}
 
 main {
   display: flex;
   flex-wrap: wrap;
-  max-width: 60rem;
+  max-width: 50rem;
   margin: 2rem auto;
   padding: 1rem;
 }
