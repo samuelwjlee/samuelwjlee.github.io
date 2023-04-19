@@ -2,20 +2,8 @@ site: samuelwjlee
 url: samuelwjlee.github.io
 title: samuelwjlee
 description:
-twitter:
-  username: #yourusername
-  card: summary
-  creator: #yourusername
-author:
-  twitter: #yourusername
-  name: Samuel Lee
-  avatar:
-  email: #youremail
-  url: #yoururl
 permalink: pretty
-
 baseurl: ""
-
 highlighter: none
 
 exclude:
