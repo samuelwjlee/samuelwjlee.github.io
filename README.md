@@ -1,3 +1,5 @@
-<!-- - To run locally, `bundle exec jekyll serve` -->
+<!--
+bundle exec jekyll serve
+-->
 
 Live site is running [here](https://samuelwjlee.github.io).
