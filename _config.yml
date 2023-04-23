@@ -1,9 +1,7 @@
 site: samuelwjlee
 url: samuelwjlee.github.io
 title: samuelwjlee
-description:
 permalink: pretty
-baseurl: ""
 highlighter: none
 
 exclude:
