@@ -4,7 +4,8 @@ layout: compress
 
 <!DOCTYPE html>
 <html lang="en">
-  {% include head.html %}
+  {% include head.html %} {% if jekyll.environment == 'production' and
+  site.google_analytics %} {% include analytics.html %}{% endif %}
   <body>
     <main role="main">{{ content }}</main>
   </body>
