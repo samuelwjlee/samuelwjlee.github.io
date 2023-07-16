@@ -3,6 +3,7 @@ url: samuelwjlee.github.io
 title: samuelwjlee
 permalink: pretty
 highlighter: none
+remote_theme: jekyll/minima
 
 exclude:
   - .jekyll-cache
@@ -19,6 +20,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 collections:
   pages:
